@@ -1,0 +1,6 @@
+{
+  "name": "Quincaillerie vie nouvelle",
+  "description": "Système de gestion complet pour Quincaillerie Vie Nouvelle: vente, stock, achats, clients, dépenses et salaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
